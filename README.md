@@ -67,7 +67,7 @@ Notable Sites
 authy.com (no leaked data found in several search engine caches)
 * coinbase.com
 * mikmbyihkh.com
-* <a href="https://akwam.club/">akwam</a>
+* <a href="https://akwam.club/" rel="nofollow">akwam.club</a>
 * 
 bitcoin.de
 betterment.com
